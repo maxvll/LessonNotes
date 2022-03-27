@@ -2,5 +2,6 @@
 
  Master lesson and more
 
-数值分析
+- 数值分析
+- 机器学习
 
